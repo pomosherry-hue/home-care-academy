@@ -1,2 +1,34 @@
-# home-care-academy
-居家失能老人介护 90 课（5 分钟/课）课程文稿与媒体索引
+# 居家介护学院 Home Care Academy
+
+居家失能老人介护培训课程：**90 课 × 5 分钟**。
+
+本仓库现为私有。存课程文稿、课表与视频索引；**不把大体积 MP4 提交进 git**，视频用 GitHub Releases 或外链，在 `media/` 里登记。
+
+与演示 App 仓库 [`home-care-demo`](https://github.com/pomosherry-hue/home-care-demo) 分开。
+
+## 目录
+
+```
+home-care-academy/
+├── README.md
+├── curriculum/90-lessons-overview.md
+├── templates/lesson.md
+├── media/README.md
+├── unit-01-icf/
+├── unit-02-adl/
+├── unit-03-self-reliance/
+├── unit-04-safe-mobility/
+├── unit-05-safety/
+├── unit-06-nutrition/
+├── unit-07-disease/
+├── unit-08-dementia/
+└── unit-09-cases/
+```
+
+每 unit 10 课，课次编号三位：`lesson-01.md` … `lesson-90.md`。
+
+## 现状
+
+- 课表为草稿，标题可改
+- 正文尚未全部写入
+- 已有 3 节 MP4（待上传 / 外链后写入 `media/` 与对应课次）

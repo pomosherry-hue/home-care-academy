@@ -15,6 +15,7 @@ home-care-academy/
 ├── templates/lesson.md
 ├── media/README.md
 ├── time-partners/training-plan.md
+├── time-partners/public-10-lessons-v1.md
 ├── unit-01-icf/
 ├── unit-02-adl/
 ├── unit-03-self-reliance/
@@ -34,3 +35,4 @@ home-care-academy/
 - 课 02、03、04 已有竖屏成片，视频文件待上传 GitHub Release
 - 课表为草稿，标题可改
 - 《50+时间伙伴》培训方案试用稿在 `time-partners/training-plan.md`
+- 《50+时间伙伴》公开10课目录 V1.0 在 `time-partners/public-10-lessons-v1.md`

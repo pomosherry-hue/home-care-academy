@@ -17,6 +17,7 @@ home-care-academy/
 ├── time-partners/training-plan.md
 ├── time-partners/public-10-lessons-v1.md
 ├── time-partners/community-operations-handbook-v1.md
+├── time-partners/insurance-v1.md
 ├── unit-01-icf/
 ├── unit-02-adl/
 ├── unit-03-self-reliance/
@@ -38,3 +39,4 @@ home-care-academy/
 - 《50+时间伙伴》培训方案试用稿在 `time-partners/training-plan.md`
 - 《50+时间伙伴》公开10课目录 V1.0 在 `time-partners/public-10-lessons-v1.md`
 - 《50+时间伙伴》社区运行手册 V1.0 在 `time-partners/community-operations-handbook-v1.md`
+- 《50+时间伙伴》保险说明 V1.0 在 `time-partners/insurance-v1.md`

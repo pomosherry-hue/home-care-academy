@@ -1,5 +1,7 @@
 # 居家介护学院 Home Care Academy
 
+**课程站：** [https://pomosherry-hue.github.io/home-care-academy/](https://pomosherry-hue.github.io/home-care-academy/)
+
 居家失能老人介护培训课程：**90 课 × 5 分钟**。
 
 本仓库现为私有。存课程文稿、课表与视频索引；**不把大体积 MP4 提交进 git**，视频用 GitHub Releases 或外链，在 `media/` 里登记。
@@ -17,6 +19,17 @@ home-care-academy/
 ├── time-partners/training-plan.md
 ├── time-partners/public-10-lessons-v1.md
 ├── time-partners/community-operations-handbook-v1.md
+├── time-partners/insurance-v1.md
+├── unit-01-icf/
+├── unit-02-adl/
+├── unit-03-self-reliance/
+├── unit-04-safe-mobility/
+├── unit-05-safety/
+├── unit-06-nutrition/
+├── unit-07-disease/
+├── unit-08-dementia/
+└── unit-09-cases/
+```
 ├── time-partners/insurance-v1.md
 ├── unit-01-icf/
 ├── unit-02-adl/

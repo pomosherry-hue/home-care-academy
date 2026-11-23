@@ -4,3 +4,5 @@
 
 - lesson-31.md：跌倒是最常见的意外（已有成片 + Release）
 - lesson-32.md：身体力学：护理员的腰和腿（已有成片 + Release）
+- lesson-33.md：床上翻身与起身（已有成片 + Release）
+- lesson-34.md：床↔椅转移（已有成片 + Release）
